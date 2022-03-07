@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <h1 align="center">Ei! 👋, Eu sou a Bela</h1>
 <h3 align="center">Uma mulher apaixonada por ciência da computação e tecnologia da informação</h3>
