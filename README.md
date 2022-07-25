@@ -7,7 +7,7 @@
 
 - 🤝 Estou procurando ajudar estudantes, assim como eu, com rotina e conhecimento sobre programação [dev.isabela](https://www.instagram.com/dev.isabela/)
 
-- 💬 Me pergunte sobre **Python**
+- 💬 Me pergunte sobre **Python**, **HTML** e *css*
 
 - 📫 Me contate pelo meu email **devisabela.bv@gmail.com**
 
