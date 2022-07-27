@@ -1,13 +1,13 @@
 <h1 align="center">Ei! 👋, Eu sou a Bela</h1>
 <h3 align="center">Uma mulher apaixonada por ciência da computação e tecnologia da informação</h3>
 
-- 🌱 Estou aprendendo **Python, Java e C**
+- 🌱 Estou aprendendo **HTML 5, CSS e JS**
 
 - 👯 Estou colaborando com a comunidade feminina da tecnologia através de meu instagram [dev.isabela](https://www.instagram.com/dev.isabela/)
 
 - 🤝 Estou procurando ajudar estudantes, assim como eu, com rotina e conhecimento sobre programação [dev.isabela](https://www.instagram.com/dev.isabela/)
 
-- 💬 Me pergunte sobre **Python**, **HTML** e *css*
+- 💬 Me pergunte sobre **Python**, **HTML**, **CSS**
 
 - 📫 Me contate pelo meu email **devisabela.bv@gmail.com**
 
