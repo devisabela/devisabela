@@ -1,5 +1,5 @@
 <h1 align="center">Ei! 👋, Eu sou a Bela</h1>
-<h3 align="center">Uma mulher apaixonada por ciência da computação e tecnologia da informação</h3>
+<h3 align="center">Uma mulher apaixonada por tecnologia! </h3>
 
 - 🌱 Estou aprendendo **HTML 5, CSS e JS**
 
