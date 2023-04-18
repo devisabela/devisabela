@@ -1,7 +1,7 @@
 <h1 align="center">Ei! 👋, Eu sou a Bela</h1>
 <h3 align="center">Uma mulher apaixonada por tecnologia! </h3>
 
-- 🌱 Estou aprendendo **HTML 5, CSS e JS**
+- 🌱 Estou aprendendo **PYTHON**
 
 - 👯 Estou colaborando com a comunidade feminina da tecnologia através de meu instagram [dev.isabela](https://www.instagram.com/dev.isabela/)
 
